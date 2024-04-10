@@ -2,7 +2,7 @@ h2 {
     margin-left: 50px;
     font-style: italic;
     font-weight: bold;
-    color: rgb(28, 64, 223);
+    color: rgb(223, 28, 28);
     font-size: 24px;
 }
 
@@ -13,7 +13,7 @@ h2 {
     width: 300px;
     height: 650px;
     align-items: center;
-    border: 1px solid blueviolet;
+    border: 1px solid rgb(226, 43, 43);
     border-radius: 11px;
     margin-top: 25px;
     padding-bottom: 24px;
@@ -51,7 +51,8 @@ h2 {
 } 
 
 img{
-    width: 150px;
+    width: 120px;
+    height: 160px;
     object-fit: cover;
 }
 
@@ -87,7 +88,7 @@ button {
 
 .price {
     font-size: 24px;
-    color:red;
+    color:rgb(0, 255, 13);
 }
 /*
 Copyright Google LLC. All Rights Reserved.
